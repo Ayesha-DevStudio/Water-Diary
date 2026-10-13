@@ -23,4 +23,8 @@ A simple water diary built with HTML, CSS, and JavaScript to track glasses of wa
 - 🎯 Add a daily water goal.
 - 🌟 Improve the design and user experience.
 
+## 🌐 Live Demo
+
+👉 [✨ Click Here for Live Preview](https://daily-water-diary.netlify.app/)
+
 **This is my first JavaScript project, and I'm excited to keep learning and improving!**
